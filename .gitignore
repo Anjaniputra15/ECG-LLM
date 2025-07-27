@@ -194,6 +194,7 @@ secrets.json
 !requirements.txt
 !README.txt
 !LICENSE.txt
+!deepdive.txt
 
 # Backup files
 *.bak
